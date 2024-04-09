@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018667840439",
+    "project_id": "msshopping-fe264",
+    "storage_bucket": "msshopping-fe264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018667840439:android:e5d82625003fdf63adae32",
+        "android_client_info": {
+          "package_name": "com.example.ms_shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyVuj_Oj4YffD-wfUcIZJjFIByPWX63MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

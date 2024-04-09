@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ms_Shopping</string>
+    <string name="into_title">Step into your <font color="#6033ba"> style \n A world of shoes </font></string>
+    <string name="into_signin"> Already have an account ?<font color="#6033ba"> SignIn </font></string>
+    <string name="into_text">Browse the latest styles from top brands\n Get personalized recommendations\nEnjoy fast, free shipping</string>
+    <string name="amount">$-</string>
+
+</resources>
